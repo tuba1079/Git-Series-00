@@ -17,3 +17,13 @@ I want to learn Python for better data analysis and automation.
 Similarly, I want to learn R for good statistical analysis of research data.
 These digital tools will help me work more efficiently in my academic projects.
 They can also benefit me when I enter my professional life.
+
+## What I Learned
+
+I learned the basic Git operations using GitHub Desktop.
+I learned how to create a repository and commit the changes I made in VS Code.
+I also learned how to add pictures and push all my commits to a branch so they are saved in the history.
+Now, whenever I want to look at a specific step of my assignment or a task, I can go directly to the commit history instead of searching for it again.
+I also understand better which methods and Git operations I used to complete my assignment.
+
+This assignment took me approximately 30 minutes to complete.

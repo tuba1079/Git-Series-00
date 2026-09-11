@@ -27,3 +27,22 @@ Now, whenever I want to look at a specific step of my assignment or a task, I ca
 I also understand better which methods and Git operations I used to complete my assignment.
 
 This assignment took me approximately 30 minutes to complete.
+
+## Question/Answers
+Ans 1. 
+Push is used to send my local commits to the remote repository on GitHub.
+
+A branch is a separate version of the repository where I can work on changes without directly changing the main branch.
+
+Clone is used to make a copy of a repository from GitHub to my local computer so I can work on it locally.
+
+Diff shows the differences between the changes I have made and the previous version of the file.
+
+Commit saves the changes I made in the local Git history with a message explaining what I changed.
+
+Ans 2. RANK
+1.Commit
+2. Push
+3. Branch
+4. Diff
+5. Clone

@@ -6,7 +6,7 @@
 
 ## GitHub Workflow Image
 
-![GitHub Workflow](images/GitHub-Workflow.png)
+![GitHub Workflow](images/𝐆𝐢𝐭𝐇𝐮𝐛-𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰.png)
 
 ## Why I want to learn Python, R, and Git
 

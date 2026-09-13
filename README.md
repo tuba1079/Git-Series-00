@@ -6,7 +6,7 @@
 
 ## GitHub Workflow Image
 
-![GitHub Workflow](images/GitHub-Workflow.png)
+![GitHub Workflow](images/𝐆𝐢𝐭𝐇𝐮𝐛-𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰.png)
 
 ![GitHub Workflow](https://www.reddit.com/r/github/comments/1ane0sw/%F0%9D%90%86%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%87%F0%9D%90%AE%F0%9D%90%9B_%F0%9D%90%96%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%A4%F0%9D%90%9F%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%B0_%F0%9D%90%80_%F0%9D%90%95%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%AE%F0%9D%90%9A%F0%9D%90%A5_%F0%9D%90%86%F0%9D%90%AE%F0%9D%90%A2%F0%9D%90%9D%F0%9D%90%9E/#lightbox)
 
